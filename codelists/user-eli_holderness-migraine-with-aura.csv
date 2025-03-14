@@ -1,0 +1,164 @@
+
+
+
+<!DOCTYPE html>
+<html lang="en" class="h-100">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no" />
+
+    
+    <link  rel="stylesheet" href="/static/assets/base-UY5CpYyD.css" />
+<script type="module" crossorigin="" src="/static/assets/base-CgSMcPEW.js"></script>
+<link href="/static/assets/_commonjsHelpers-C932wzq6.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="/static/assets/jquery-BQXThELV.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+
+    
+    <script
+      defer
+      data-domain="opencodelists.org"
+      event-is_logged_in="true"
+      event-is_admin="false"
+      src="https://plausible.io/js/script.pageview-props.tagged-events.js"
+    ></script>
+    <script nonce="">
+      window.plausible = window.plausible || function() { (window.plausible.q = window.plausible.q || []).push(arguments) }
+    </script>
+
+    
+
+    
+
+    <title>OpenCodelists: Migraine with aura (Draft)</title>
+
+    <link rel="icon" href="/static/favicon.ico">
+    <link rel="icon" href="/static/icon.svg" type="image/svg+xml">
+    <link rel="apple-touch-icon" href="/static/apple-touch-icon.png">
+    <link rel="manifest" href="/static/manifest.webmanifest">
+  </head>
+
+  <body class="d-flex flex-column h-100">
+    <nav
+      class="navbar navbar-expand-sm navbar-dark bg-secondary justify-content-between align-items-baseline"
+    >
+      <div class="mr-auto">
+        <a class="navbar-brand" href="/"
+        >OpenCodelists</a
+          >
+
+          <button
+            class="navbar-toggler"
+            type="button"
+            data-toggle="collapse"
+            data-target="#navbarSupportedContent"
+            aria-controls="navbarSupportedContent"
+            aria-expanded="false"
+            aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+        </div>
+
+        <div class="collapse navbar-collapse" id="navbarSupportedContent">
+          <ul class="navbar-nav ml-auto">
+            <li class="navbar-nav nav-item">
+              <a class="nav-link text-white" href="/docs/">Docs</a>
+            </li>
+            
+              <li class="navbar-nav nav-item">
+                <a class="nav-link text-white" href="/accounts/register/">Sign up</a>
+              </li>
+              <li class="navbar-nav nav-item">
+                <a class="nav-link text-white" href="/accounts/login/">Sign in</a>
+              </li>
+            
+          </ul>
+        </div>
+      </nav>
+
+      <main role="main" class="flex-shrink-0 my-4">
+        
+
+        <div class="container">
+          
+          
+        </div>
+
+        <div class="container-fluid max-w-screen-2xl">
+          
+  <div class="border-bottom mb-3">
+    <h1 class="h3">Migraine with aura</h1>
+    <p class="text-muted">This version is a draft</p>
+  </div>
+
+  <div class="overflow-hidden" id="codelist-builder-container"></div>
+
+        </div>
+      </main>
+
+      <footer id="footer" class="border-top bg-light mt-auto py-5">
+        <div class="container">
+          <ul class="list-inline text-center d-flex flex-column flex-md-row justify-content-center mb-0 mb-md-3">
+            <li class="list-inline-item mb-3 mb-md-0 mr-0 mr-md-5">
+              <a href="/docs/">
+                Documentation
+              </a>
+            </li>
+
+            <li class="list-inline-item mb-3 mb-md-0 mr-0">
+              <a href="https://www.opensafely.org/">
+                OpenSAFELY
+              </a>
+            </li>
+          </ul>
+
+          <ul class="list-inline text-center d-flex flex-column flex-md-row justify-content-center">
+            <li class="list-inline-item mb-3 mb-md-0 mr-0 mr-md-5">
+              <a href="https://www.bennett.ox.ac.uk/">
+                Bennett Institute for Applied Data Science
+              </a>
+            </li>
+
+            <li class="list-inline-item mb-3 mb-md-0">
+              <a href="https://www.ox.ac.uk/">
+                University of Oxford
+              </a>
+            </li>
+          </ul>
+
+          <div class="row">
+            <div class="col-12 offset-md-1 col-md-10 offset-lg-2 col-lg-8 text-center mt-3 mb-0 small">
+              <p>© University of Oxford for the Bennett Institute for Applied Data Science 2025. This work may be copied freely for non-commercial research and study. If you wish to do any of the other acts restricted by the copyright you should apply in writing to <a href="/cdn-cgi/l/email-protection#423627232f022d32272c312324272e3b6c2d3025"><span class="__cf_email__" data-cfemail="8afeefebe7cae5faefe4f9ebecefe6f3a4e5f8ed">[email&#160;protected]</span></a>.</p>
+              <p>SNOMED Clinical Terms® content © International Health Terminology Standards Development Organisation.</p>
+              <p>ICD-10 codes, terms and text © World Health Organization, Third Edition. 2007.</p>
+            </div>
+          </div>
+        </div>
+      </footer>
+
+      
+  <script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script><script id="results-heading" type="application/json">"Showing all matching concepts"</script>
+  <script id="searches" type="application/json">[]</script>
+  <script id="filter" type="application/json">null</script>
+  <script id="tree-tables" type="application/json">[["Disorder", ["230465000", "699314009"]]]</script>
+  <script id="code-to-term" type="application/json">{"230465000": "Migraine aura without headache", "699314009": "Migraine with persistent visual aura"}</script>
+  <script id="code-to-status" type="application/json">{"699314009": "+", "230465000": "+"}</script>
+  <script id="all-codes" type="application/json">["699314009", "230465000"]</script>
+  <script id="included-codes" type="application/json">["699314009", "230465000"]</script>
+  <script id="excluded-codes" type="application/json">[]</script>
+  <script id="parent-map" type="application/json">{"699314009": ["4473006"], "118940003": ["362965005"], "246556002": ["404684003"], "362965005": ["64572001"], "128187005": ["230461009", "301358001", "27550009"], "118934005": ["64572001", "406122000"], "49601007": ["362965005", "106063007"], "81308009": ["299718000", "118934005", "23853001"], "21829004": ["248402002", "106063007"], "299718000": ["406122000", "246556002"], "27550009": ["19660004", "21829004", "49601007"], "301358001": ["279001004", "106063007"], "276435006": ["106147001"], "106147001": ["102957003"], "279001004": ["22253000", "699697007"], "37796009": ["128187005"], "248402002": ["404684003"], "23853001": ["118940003", "246556002"], "25064002": ["279001004", "406122000"], "22253000": ["276435006"], "230461009": ["118934005", "25064002"], "106063007": ["404684003"], "4473006": ["81308009", "37796009"], "19660004": ["64572001", "248402002"], "102957003": ["404684003"], "406122000": ["404684003"], "64572001": ["404684003"], "699697007": ["106147001"], "230465000": ["4473006"], "404684003": ["138875005"]}</script>
+  <script id="child-map" type="application/json">{"4473006": ["699314009", "230465000"], "362965005": ["118940003", "49601007"], "404684003": ["64572001", "248402002", "406122000", "246556002", "102957003", "106063007"], "64572001": ["19660004", "118934005", "362965005"], "27550009": ["128187005"], "106063007": ["301358001", "21829004", "49601007"], "23853001": ["81308009"], "248402002": ["19660004", "21829004"], "406122000": ["299718000", "118934005", "25064002"], "246556002": ["299718000", "23853001"], "19660004": ["27550009"], "301358001": ["128187005"], "106147001": ["276435006", "699697007"], "102957003": ["106147001"], "22253000": ["279001004"], "128187005": ["37796009"], "279001004": ["25064002", "301358001"], "118934005": ["81308009", "230461009"], "276435006": ["22253000"], "25064002": ["230461009"], "299718000": ["81308009"], "699697007": ["279001004"], "81308009": ["4473006"], "118940003": ["23853001"], "230461009": ["128187005"], "21829004": ["27550009"], "37796009": ["4473006"], "49601007": ["27550009"], "138875005": ["404684003"]}</script>
+  <script id="is-editable" type="application/json">false</script>
+  <script id="draft-url" type="application/json">"/builder/5dbe8aa9/"</script>
+  <script id="update-url" type="application/json">"/builder/5dbe8aa9/update/"</script>
+  <script id="search-url" type="application/json">"/builder/5dbe8aa9/search/"</script>
+  <script id="versions" type="application/json">[]</script>
+  <script id="metadata" type="application/json">{"coding_system_name": "SNOMED CT", "coding_system_release": {"release_name": "39.5.0", "valid_from": "2025-02-26"}, "organisation_name": null, "codelist_full_slug": "user/eli_holderness/migraine-with-aura", "hash": "5dbe8aa9"}</script>
+
+  
+
+  <script type="module" crossorigin="" src="/static/assets/builder-VBetAjAV.js"></script>
+<link href="/static/assets/TreeTables-iOBJlwyI.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+<link href="/static/assets/_commonjsHelpers-C932wzq6.js" type="text/javascript" crossorigin="anonymous" rel="modulepreload" as="script" />
+
+    </body>
+  </html>
